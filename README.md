@@ -2,7 +2,7 @@
 Nosso pipeline tem como intuito realizar anotações de arquivos .VCF somáticos para fins didáticos.
 Todos os testes realizados foram realizados no ambiente de execução do GoogleColaboratory.
 
-Para a realização dos testes a seguir temos um arquivo .VCF disponível para os testes
+Para a realização dos testes a seguir temos um arquivo .VCF disponível para os testes.
 
 link para acesso do ambiente Colab: https://colab.research.google.com
 
