@@ -25,7 +25,7 @@ tar -zxvf 105.0.tar.gz
 cd ensembl-vep-105.0
 ./INSTALL.pl --NO_UPDATE 
 ```
-## Vamos realizar uma breve análise do código acima para um melhor entendimento so que está sendo feito :grinning: :
+## Vamos realizar uma breve análise do código acima para um melhor entendimento do que está sendo feito :grinning: :
 
 
 >Segunda linha do código referente a instalação de dependências
